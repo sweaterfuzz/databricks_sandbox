@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "default": {
+            "profile": "DEFAULT",
+            "workspace_dir": "/Shared/dbx/projects/databricks_sandbox",
+            "artifact_location": "dbfs:/dbx/databricks_sandbox"
+        }
+    }
+}
