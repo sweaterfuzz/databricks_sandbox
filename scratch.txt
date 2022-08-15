@@ -1,0 +1,2 @@
+dbx execute --cluster-id=0712-184330-4d7uzwzi --job=dbx-demo-job --no-rebuild --no-package
+
